@@ -131,7 +131,7 @@ img.profile-pic {
 }
 
 .secondary-info {
-	height: 8%;
+	height: 12%;
 }
 
 .bg-color-grey {
@@ -153,14 +153,14 @@ img.profile-pic {
     font-family: 'Muli', sans-serif;
     font-weight: 200;
     color: #000000;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .text-detail {
     font-family: 'Muli', sans-serif;
     font-weight: 300;
     color: #000000;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .bottom {
